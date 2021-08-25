@@ -7,7 +7,7 @@ My name is Yan Liu. This is my second year in the statistical master's program a
 
 ### Data Science
 
-![data science](https://raw.githubusercontent.com/yanL2021/yanL2021.github.io/yanL2021.github.io/images/data sceience.jpg)
+![data science](https://raw.githubusercontent.com/yanL2021/yanL2021.github.io/images/data sceience.jpg)
 
 ### Contact me
 
