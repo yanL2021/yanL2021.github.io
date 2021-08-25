@@ -8,8 +8,9 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My name is Yan Liu. This is my second year in the statistical master's program at NCSU. I work as a research scientist at Cleveland Clinic. I am trying to apply the knowledge I learned from statistics to analyze complex clinical data. This course of data science would be really helpful.
+![data science](yanL2021.github.io/images/data sceience.jpg)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[liuyan.umich@gmail.com](mailto:liuyan.umich@gmail.com)
