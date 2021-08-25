@@ -5,7 +5,7 @@ permalink: /about/
 ---
 My name is Yan Liu. This is my second year in the statistical master's program at NCSU. I work as a research scientist at Cleveland Clinic. I am trying to apply the knowledge I learned from statistics to analyze complex clinical data. This course of data science would be really helpful.
 
-### More Information
+### Data Science
 
 ![data science](https://raw.githubusercontent.com/yanL2021/yanL2021.github.io/yanL2021.github.io/images/data sceience.jpg)
 
