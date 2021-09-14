@@ -27,3 +27,4 @@ difficult language to learn, but it will take a lot of effort before you
 master it.
 
 ## 0.2 R Markdown
+![plot](https://raw.githubusercontent.com/yanL2021/yanL2021.github.io/master/images/unnamed-chunk-1-1.png)
