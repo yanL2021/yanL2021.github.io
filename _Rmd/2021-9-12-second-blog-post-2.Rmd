@@ -1,0 +1,27 @@
+---
+title: "Programming Background"
+author: "Yan Liu"
+date: "2021/9/12"
+
+---
+
+rmarkdown::render("2021-9-12-second-blog-post-2.rmd", 
+              output_format = "github_document", 
+              output_dir="E:/r blog/yanL2021.github.io/_posts",
+              output_options = list
+                (toc = TRUE, 
+                 toc_depth="2", 
+                 number_sections= TRUE
+                 )
+                 )
+
+## Programming Background 
+I have some experience with SAS before taking this course. Compared to SAS, R allows you more flexibility during programming. You always have multiple ways to achieve the goal. However, the structure of SAS coding is more. The best part of R is that there are various packages to help your coding. Also, R is much easier to share with others since it is completely free. For SAS, you can only use it on the computers from an institution that has bought the software. But this property of SAS makes the programs run more stable than R due to the maintaining effort from the company. SAS code is also easier to follow than R since it always follows a similar structure and logic flow. I won't consider R as a difficult language to learn, but it will take a lot of effort before you master it.
+
+## R Markdown
+```{r,include=FALSE}
+plot(iris)
+knitr::opts_chunk$set(fig.path = "E:/r blog/yanL2021.github.io/images")
+```
+
+
