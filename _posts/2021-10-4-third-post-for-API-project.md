@@ -1,0 +1,33 @@
+2021-10-4 Covid19 API interaction
+================
+Yan Liu
+2021/10/4
+
+I completed a [Vignettes](https://yanl2021.github.io/Covid19-API/)
+([github repo](https://github.com/yanL2021/Covid19-API)) that
+demonstrates how to interact with a [Covid-19
+API](https://covid19api.com/) by using a series of created functions.
+
+## Explaination
+
+To summarize everything I did in this vignette, I built functions to
+interact with some of the COVID-19 API endpoints, retrieved some of the
+data, and explored it using tables, numerical summaries, and data
+visualization. The results above showed that the mortality rate
+decreased in the all the listed European countries after 60% population
+got vaccinated. Surprisingly, we did not see a clear correlation between
+them. The observed morality is not higher in the countries with higher
+cases per capita.
+
+Writing this vignette helps me learning how to interact with an API and
+how to perform a basic exploratory data analysis.
+
+## Thoughts
+
+During this project, the most difficult part is to decide which part of
+data I should present in the vignettes and how to design the structure
+of the vignettes to present the data in a logical way. I kept changing
+ideas during the programming which wasted a lot of time. Next time I
+hope I am able to understand the structure of API better and earlier,
+then draft a plan with detial first before working on the programming
+part.
